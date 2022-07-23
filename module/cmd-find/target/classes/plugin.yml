@@ -1,0 +1,5 @@
+name: cmd_find
+main: net.md_5.bungee.module.cmd.find.PluginFind
+version: ${describe}
+description: Provides the find command
+author: SpigotMC

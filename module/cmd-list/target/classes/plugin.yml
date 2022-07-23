@@ -1,0 +1,5 @@
+name: cmd_list
+main: net.md_5.bungee.module.cmd.list.PluginList
+version: ${describe}
+description: Provides the glist command
+author: SpigotMC

@@ -1,0 +1,5 @@
+name: cmd_alert
+main: net.md_5.bungee.module.cmd.alert.PluginAlert
+version: ${describe}
+description: Provides the alert and alertraw commands
+author: SpigotMC
